@@ -121,16 +121,16 @@ https://coolors.co
     - [ ] Figma
     - [ ] Adobe
     - [ ] Chrome
-  - [ ] Document view:
-    - [ ] Pricing
-    - [ ] License
-    - [ ] Terms of service
-    - [ ] Privacy policy
-    - [ ] Cookie policy
-    - [ ] Help center
-    - [ ] Advertise
-    - [ ] Affiliate
-    - [ ] Contact
+  - [x] Document view:
+    - [x] Pricing
+    - [x] License
+    - [x] Terms of service
+    - [x] Privacy policy
+    - [x] Cookie policy
+    - [x] Help center
+    - [x] Advertise
+    - [x] Affiliate
+    - [x] Contact
   - [ ] Manage cookies
 
 ## Функциональные требования
@@ -192,4 +192,4 @@ https://coolors.co
    в одном стиле.
 1. [ ] Размещение и просмотр вакансий на рботу в области дизайна.
 1. [ ] Загрузка приложений и расширений
-1. [ ] Просмотр документации
+1. [x] Просмотр документации
