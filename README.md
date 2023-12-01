@@ -115,12 +115,12 @@ https://coolors.co
   - [ ] Font Generator
   - [ ] Find your next jobs
   - [ ] Post a job
-  - [ ] App download
-    - [ ] iOS
-    - [ ] Android
-    - [ ] Figma
-    - [ ] Adobe
-    - [ ] Chrome
+  - [x] App download
+    - [x] iOS
+    - [x] Android
+    - [x] Figma
+    - [x] Adobe
+    - [x] Chrome
   - [x] Document view:
     - [x] Pricing
     - [x] License
@@ -191,5 +191,5 @@ https://coolors.co
    в визуально похожие на них символы или последовательности символов
    в одном стиле.
 1. [ ] Размещение и просмотр вакансий на рботу в области дизайна.
-1. [ ] Загрузка приложений и расширений
+1. [x] Загрузка приложений и расширений
 1. [x] Просмотр документации
