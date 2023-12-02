@@ -50,15 +50,15 @@ https://coolors.co
       - [ ] Triadic
       - [ ] Tetradic
       - [ ] Square
-    - [ ] Симулятор дальтонизма (преобразование цвета и сравнение с изначалным)
-      - [ ] Protanopia
-      - [ ] Protanomaly
-      - [ ] Deuteranopia
-      - [ ] Deuteranomaly
-      - [ ] Tritanopia
-      - [ ] Tritanomaly
-      - [ ] Achromatopsia
-      - [ ] Achromatomaly
+    - [x] Симулятор дальтонизма (преобразование цвета и сравнение с изначалным)
+      - [x] Protanopia
+      - [x] Protanomaly
+      - [x] Deuteranopia
+      - [x] Deuteranomaly
+      - [x] Tritanopia
+      - [x] Tritanomaly
+      - [x] Achromatopsia
+      - [x] Achromatomaly
     - [x] Проверка контраста
       - [x] На белом фоне
       - [x] На чёрном фоне
@@ -155,7 +155,7 @@ https://coolors.co
    HEX, RGB, CMYK, HSB, HSL, Lab, XYZ, LCH, LUV, HWB.
 1. [ ] Демонстрация смежных цветов и оттенков в виде градиента
 1. [ ] Демонстрация гармоничных цветов
-1. [ ] Симулятор дальтонизма с оценкой соответствия изначального цвета
+1. [x] Симулятор дальтонизма с оценкой соответствия изначального цвета
    преобразованному, при этом должна
    вычисляться метрика соответствия.
 1. [x] Проверка контраста цвета в виде проверки читаемости текста.
