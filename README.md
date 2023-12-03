@@ -43,13 +43,13 @@ https://coolors.co
       - [x] Tones
       - [x] Hues
       - [x] Temperatures
-    - [ ] Гармоники:
-      - [ ] Analogous
-      - [ ] Complementary
-      - [ ] Split complementary
-      - [ ] Triadic
-      - [ ] Tetradic
-      - [ ] Square
+    - [x] Гармоники:
+      - [x] Analogous
+      - [x] Complementary
+      - [x] Split complementary
+      - [x] Triadic
+      - [x] Tetradic
+      - [x] Square
     - [x] Симулятор дальтонизма (преобразование цвета и сравнение с изначалным)
       - [x] Protanopia
       - [x] Protanomaly
@@ -154,7 +154,7 @@ https://coolors.co
 1. [x] Перевод цветов между представлениями:
    HEX, RGB, CMYK, HSB, HSL, Lab, XYZ, LCH, LUV, HWB.
 1. [x] Демонстрация смежных цветов и оттенков в виде градиента
-1. [ ] Демонстрация гармоничных цветов
+1. [x] Демонстрация гармоничных цветов
 1. [x] Симулятор дальтонизма с оценкой соответствия изначального цвета
    преобразованному, при этом должна
    вычисляться метрика соответствия.
