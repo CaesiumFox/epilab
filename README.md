@@ -26,7 +26,7 @@ https://coolors.co
       - [x] Prismacolor
   - [x] Редактор цветов (Color picker)
     - [x] Подбор цвета (описано выше)
-    - [x] Перевод в:
+    - [x] Перевод в цветовые модели:
       - [x] HEX
       - [x] RGB
       - [x] CMYK
